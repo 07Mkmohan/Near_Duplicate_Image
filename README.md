@@ -1,7 +1,5 @@
 This is our first project on Machine learninig
 <br>
-Author - 07Mkmohan
-<br>
 Title: Near-duplicate image search
 <br>
 Description: Building a near-duplicate image search utility using deep learning and locality-sensitive hashing.
